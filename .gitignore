@@ -1,0 +1,6 @@
+# Never commit payment records or personal identifiers
+*receipt*
+*invoice*
+*.pem
+*.key
+.env*
