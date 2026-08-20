@@ -89,10 +89,12 @@ Instagram, TikTok) are deselected for this release.
 
 | Document | Description |
 |---|---|
+| [**Declaration of Authorship and Ownership** (PDF)](documents/Declaration-of-Ownership-Dime-Que-Si.pdf) | Signed declaration of sole authorship, 100% writer's / publisher's / master ownership, and licensed use of the instrumental |
 | [Licence grant provisions](documents/licence-grant.md) | The distribution and exploitation rights granted by the licence, quoted in full |
 
-A signed declaration of sole authorship and ownership is held on file and is available to
-distributors, platforms and rights administrators on request.
+The Declaration is signed and dated 20 August 2026 by Earvin Gallardo. The full licence
+agreement is held on file and is available to distributors, platforms and rights
+administrators on request.
 
 ## Contact
 
