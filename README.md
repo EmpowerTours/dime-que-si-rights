@@ -89,7 +89,8 @@ Instagram, TikTok) are deselected for this release.
 
 | Document | Description |
 |---|---|
-| [**Declaration of Authorship and Ownership** (PDF)](documents/Declaration-of-Ownership-Dime-Que-Si.pdf) | Signed declaration of sole authorship, 100% writer's / publisher's / master ownership, and licensed use of the instrumental |
+| [**Declaration of Authorship and Ownership**](documents/declaration-of-ownership.md) | Signed declaration of sole authorship, 100% writer's / publisher's / master ownership, and licensed use of the instrumental — *opens in browser* |
+| [Declaration of Authorship and Ownership (PDF)](documents/Declaration-of-Ownership-Dime-Que-Si.pdf) | The same declaration as a signed PDF |
 | [Licence grant provisions](documents/licence-grant.md) | The distribution and exploitation rights granted by the licence, quoted in full |
 
 The Declaration is signed and dated 20 August 2026 by Earvin Gallardo. The full licence
